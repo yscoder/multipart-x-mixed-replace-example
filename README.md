@@ -11,5 +11,8 @@ Server push based on `multipart/x-mixed-replace`。
 ## 怎么运行？
 
 ```bash
+# localhost:8090
 node server
 ```
+
+启动服务后浏览器打开 `test.html` 查看结果。
